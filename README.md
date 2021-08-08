@@ -12,4 +12,4 @@ Raspberry Pi 4 - 4GB,
 Raspberry B Rev 2 - 256MB,
 Jetson Nano 2GB w/ Wifi dongle (Nvidia).
 
-Most of code I'm uploading will be python3.
+Most of code I'm uploading will be python3, not related to the microcontrollers.
