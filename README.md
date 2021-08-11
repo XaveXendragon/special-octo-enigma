@@ -1,7 +1,7 @@
 # special-octo-enigma
 Code Hive Alpha
 
-This quite anything as of yet, possilby a place to store some of my code.
+This isn't anything as of yet, possilby a place to store some of my code.
 
 I'm currently working with several microcontrollors:
 RedBoard RED-V (SparkFun),
